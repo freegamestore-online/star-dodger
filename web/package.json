@@ -1,5 +1,5 @@
 {
-  "name": "@APPNAME/web",
+  "name": "@star-dodger/web",
   "private": true,
   "type": "module",
   "scripts": {
